@@ -1,0 +1,28 @@
+Tugas Modul 2 Internship ITS ROBOCON
+
+Invers Kinematic Omni-Wheel
+
+Input X speed:10
+Input X speed:20
+Input Theta:40
+Input Radius: 3
+
+Wheel Velocity 0 = 141.21 m/s
+Wheel Velocity 1 = 112.93 m/s
+Wheel Velocity 2 = 98.79 m/s
+Wheel Velocity 3 = 127.07 m/s
+
+Angular Speed 0 = 47.07 rad/s
+Angular Speed 1 = 37.64 rad/s
+Angular Speed 2 = 32.93 rad/s
+Angular Speed 3 = 42.36 rad/s
+
+Invers Kinematic Robot's Arm 2-DOF
+
+Input x target coordinate: 2.00
+input y target coordinate: 2.00
+input robot's arm length 1: 10.00
+input robot's arm length 2: 10.00
+
+Joint 1 angle: -36.87 degree
+Joint 2 angle: 163.74 degree
